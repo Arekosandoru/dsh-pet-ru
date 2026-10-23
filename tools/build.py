@@ -47,8 +47,14 @@ def main():
     args = ap.parse_args()
     up, ru = Path(args.upstream), Path(args.ru)
 
+    files = list(FILES)
+    memes_dir = ru / "assets" / "memes"
+    if memes_dir.is_dir():
+        files += [f"assets/memes/{p.name}" for p in sorted(memes_dir.glob("*.png"))]
+
     renames_path = ROOT / "renames.json"
     renames = json.loads(renames_path.read_text(encoding="utf-8"))
+    rename_map = {r["to"]: r["from"] for r in renames}
     gone = [r["from"] for r in renames if not (up / r["from"]).exists()]
     if gone:
         print(f"! исчезли ассеты ({len(gone)}): {gone[:5]}")
@@ -70,8 +76,9 @@ def main():
     if out.exists():
         shutil.rmtree(out)
     entries = []
-    for rel in FILES:
-        a, b = up / rel, ru / rel
+    for rel in files:
+        a = up / rename_map.get(rel, rel)
+        b = ru / rel
         if not b.exists():
             sys.exit(f"нет переведённого файла {rel}")
         dst = out / rel

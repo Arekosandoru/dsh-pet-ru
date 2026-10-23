@@ -73,6 +73,150 @@
    "before": "850b06d8ce9fa18cdfe035c7690c5ccf013971a7627f0bb54771e1a0555192a0",
    "after": "229cbefcf4470364750245f502ca4245982cedb861b95e0b2dd2cd9dc8db2795",
    "size": 108231
+  },
+  {
+   "path": "assets/memes/Без обновлений вы что.png",
+   "before": "a71b82c49a5aa30e6026af60ac912171e28200ea961df71784497c59df76e277",
+   "after": "d5e1a74a4a4cc3eacb5fcdf57a9cbe6966633c7ee0b0d2d61e91d8bcb217dc54",
+   "size": 165219
+  },
+  {
+   "path": "assets/memes/Большое лекарство.png",
+   "before": "ae314fdb1f0c6904bc286d6436750f2a04981e74437b9a234eff0f627a904b48",
+   "after": "ca7dfde890fc56752a2a302093aabf53d6a5176774542a59491253c522084be0",
+   "size": 177782
+  },
+  {
+   "path": "assets/memes/Вот это кит.png",
+   "before": "30617cca18b9f3be4045dd68ba0c98600c319b68ea755ee7008d8959ff28347e",
+   "after": "2b766b6783d04fb15d4cd3fda9da1d3b3e3c1e590bdfa2c4dbc096e2afe0f90b",
+   "size": 143779
+  },
+  {
+   "path": "assets/memes/Всего одна чашка.png",
+   "before": "f01520b68b5526814adb9ee3d10e87f5f0ab76c9cea8159c28c09497194340ce",
+   "after": "064f122564d07674062890cba0e6ff58c28ad7b3100a1cd1044952a895b9ee6f",
+   "size": 146694
+  },
+  {
+   "path": "assets/memes/Гипотезу Римана не доказал.png",
+   "before": "651c398bb997354ef027f71d593099bbed712dbc7f9c3fc4607a1173edd3b6b9",
+   "after": "021947ba246d5eb735e92fed93e20873dc0ee3021d535338f43e24803156e7fb",
+   "size": 202550
+  },
+  {
+   "path": "assets/memes/Есть ссылочки.png",
+   "before": "414a57b1fa5d73111612ead35d596adb01eb284f8ab44038a252a65a209dbced",
+   "after": "93cba792dd1f0d6b223c1faef56822af399ab828367850f53c10207640cff80f",
+   "size": 178121
+  },
+  {
+   "path": "assets/memes/За open source до конца.png",
+   "before": "96d02fcef0801d2fc04d2c9d8c336b053842f3e949d81ebf97bf438741ced840",
+   "after": "1fd56029ef8cb97f65c3d7ddf8255376117a616a56aeda617706dc14cc2495a3",
+   "size": 136343
+  },
+  {
+   "path": "assets/memes/Кроме флирта ни на что.png",
+   "before": "a42585f22cf470ecaea1c465170ff1bee4eeb45a7ed92331b78533cb8b768a48",
+   "after": "b5aef88497434dd857f572d7c1d54167378eda0e14c2ba6b9adf1d1fdfc76550",
+   "size": 147904
+  },
+  {
+   "path": "assets/memes/Наелся и гладит живот.png",
+   "before": "128afd60aef0c610261271806beb6df2dedd33f159d3cc65676a2f6fed613585",
+   "after": "5fa44b99a93294e6d84c9fa0b48ab5a4573c933042b37415992972d9b93c6d79",
+   "size": 119062
+  },
+  {
+   "path": "assets/memes/Ой, китик.png",
+   "before": "96d954bd3f9d60e77273643a96b6c2a5c4680ed4d6a4b3f1fe087189cd8fdd8a",
+   "after": "33bc3b35bf316a44748b4039a2b1b091156ca86bc676a96caab597331cb79d21",
+   "size": 92810
+  },
+  {
+   "path": "assets/memes/Откуда вирус.png",
+   "before": "aea1b932b1bdd7d2c35e9fdd2a72ed944d42ad1dfb2608fc600924511e11bea0",
+   "after": "d77f3db9ea8ba0934e0e2868b8409a46f109434754b2a6106f48ea019a9bf66a",
+   "size": 111974
+  },
+  {
+   "path": "assets/memes/Пока приютим.png",
+   "before": "74d5ec30a583b9126af1246d41de5d5b23a20c45dc4464e64cb1fa090d869f05",
+   "after": "71f22597d79e8462d40a38bb9827e31ea7a8f23ce172b09e0bc24d7ecad2a1ac",
+   "size": 140298
+  },
+  {
+   "path": "assets/memes/Сжигатель токенов.png",
+   "before": "9e6f7147e961ab45b7271dcae0b1d10e67bc76df62449f2165aab7d0d2fe3249",
+   "after": "08e005cfa2bbc169f2d9b9eea2500b9be8f9128b12acb38acf296cf7e1534e01",
+   "size": 105589
+  },
+  {
+   "path": "assets/memes/Скоро большое событие.png",
+   "before": "253ae478c398ff3238170547033e7b477e2e5eae2400221bbed5ac2064ef1d80",
+   "after": "342a972122255e4e5d67722a08f27ceb47500b9704eeda7bc7b59e7112468e0a",
+   "size": 133713
+  },
+  {
+   "path": "assets/memes/Стресс у рыбы.png",
+   "before": "748d4c2664c6dc40380e883f9ec713a7c2a4fb410401d639111ae3cdbed15819",
+   "after": "231b306f6b357d370d26f3c139aa207d3c305b53805f3e7b983b39ab30a9bda9",
+   "size": 165409
+  },
+  {
+   "path": "assets/memes/Так и поругать можно.png",
+   "before": "4bb9aff0cd35b1f2a2cec1c09f285263524498dda5bac6b64ed006444996cee4",
+   "after": "08186cb07771382aec9f86f257cca3215cf94958cf2054354497d67c06655365",
+   "size": 148362
+  },
+  {
+   "path": "assets/memes/Такой уж есть.png",
+   "before": "8edbcd5583971bc448c6a19f65d1ef3b47c565e039806ea9bd27e5bcdc540ed3",
+   "after": "3c33c1cf7f6635b23d90770f9d02c1b933711d230d6523b68ca19c5eaa91328b",
+   "size": 144303
+  },
+  {
+   "path": "assets/memes/Токены отдам маме.png",
+   "before": "1ff2f370be90545ebcb84e718353070d078ec78d1cbb204785f3d7d24d86327d",
+   "after": "775a6abd30948a2f36f4c71c1b6ff84db076bc24a82ddd455522b33051fb6c43",
+   "size": 147891
+  },
+  {
+   "path": "assets/memes/Толстая рыба на всём готовом.png",
+   "before": "2d3a5f07684cee0da30a2b5717dd9a1f226da21b98ca1900097617e5de374428",
+   "after": "46cf4079be4d0cf7a5e0945735764ae1e1568a4559e7e3014606baa0c2013264",
+   "size": 125941
+  },
+  {
+   "path": "assets/memes/Три дня мультимодальности.png",
+   "before": "8d25880a3f2c546dc4fb57e96954b16cdc254a0faf8945411d9af8f0025b19e7",
+   "after": "e0bde74ae424a8909c99bf9822455ced05196cdf319da2097ea72b420b51f4d8",
+   "size": 183305
+  },
+  {
+   "path": "assets/memes/Удар током.png",
+   "before": "b0edc4eccf8f93acb8a2d885030994667431373674a3f81c755020ad5c7b5f22",
+   "after": "530e68ee44f45dbffb73ea897853dbdd61641da201f2d4735c10e558897f8b42",
+   "size": 223713
+  },
+  {
+   "path": "assets/memes/Умер.png",
+   "before": "b042ac22e84ba1a1ffffd7ec246b53d40d1db3dc4c19d3443d63f243af14b25b",
+   "after": "aff872496c6ef3e6bec1149a4b4ebc514bcf29273cd13d47d47b5dad1bb47df2",
+   "size": 153473
+  },
+  {
+   "path": "assets/memes/Упс, удалил краски.png",
+   "before": "bbd70ca8b0e7301f5bb6a326109ab86560a154782bce0769b28de29a4e79dbbf",
+   "after": "500cc2e96c313b096cfb2892dd3be52ece137e8797c5939148c5ffc90c8568fd",
+   "size": 162285
+  },
+  {
+   "path": "assets/memes/Что значит этот район.png",
+   "before": "51f1d36d7b78c2726df8a26d20f34447ecd1280232bd285ce2c985ebd5e87723",
+   "after": "9bbe0e2d688047286bf26c915e993fb3df5e2343c2bf430f63b39f4b37a3636e",
+   "size": 132679
   }
  ],
  "renames": 133

@@ -92,6 +92,25 @@ if (pkg.version !== VERSION) {
   );
 }
 
+// ---------- имена ассетов: сначала переименовать, потом сверять хеши ----------
+const todoRenames = [];
+let alreadyRenamed = 0;
+for (const r of renames) {
+  const from = join(dir, r.from);
+  const to = join(dir, r.to);
+  if (existsSync(from)) todoRenames.push(r);
+  else if (existsSync(to)) alreadyRenamed++;
+  else fail(`ассет не найден: ${r.from} — папка плагина неполная.`);
+}
+const dryRun = args.includes('--dry-run');
+const appliedRenames = [];
+if (!dryRun) {
+  for (const r of todoRenames) {
+    renameSync(join(dir, r.from), join(dir, r.to));
+    appliedRenames.push(r);
+  }
+}
+
 // ---------- проверка хешей ----------
 const clean = [];
 const patched = [];
@@ -108,24 +127,14 @@ for (const f of manifest.files) {
   else unknown.push(f.path);
 }
 if (unknown.length) {
+  for (const r of appliedRenames.reverse()) renameSync(join(dir, r.to), join(dir, r.from));
   fail(
     `файлы плагина отличаются от dsh-pet ${VERSION}:\n  ${unknown.join('\n  ')}\n` +
       `Похоже, установлена другая версия или файлы уже правили. Ничего не изменено.`,
   );
 }
 const already = patched.length === manifest.files.length;
-if (already && !args.includes('--dry-run')) console.log('Файлы уже переведены; проверяю только имена ассетов.');
-
-// ---------- план по ассетам ----------
-const todoRenames = [];
-let alreadyRenamed = 0;
-for (const r of renames) {
-  const from = join(dir, r.from);
-  const to = join(dir, r.to);
-  if (existsSync(from)) todoRenames.push(r);
-  else if (existsSync(to)) alreadyRenamed++;
-  else fail(`ассет не найден: ${r.from} — папка плагина неполная.`);
-}
+if (already && !dryRun) console.log('Файлы уже переведены; проверяю только имена ассетов.');
 
 if (args.includes('--dry-run')) {
   console.log(`План: скопировать ${already ? 0 : clean.length} файлов, переименовать ${todoRenames.length} ассетов.`);
@@ -153,11 +162,7 @@ if (!already) {
     copyFileSync(join(here, 'files', f.path), join(dir, f.path));
   }
 }
-let renamed = 0;
-for (const r of todoRenames) {
-  renameSync(join(dir, r.from), join(dir, r.to));
-  renamed++;
-}
+const renamed = appliedRenames.length;
 
 // ---------- проверка результата ----------
 const bad = manifest.files.filter((f) => sha(join(dir, f.path)) !== f.after).map((f) => f.path);
