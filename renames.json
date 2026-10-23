@@ -1,0 +1,534 @@
+[
+ {
+  "from": "assets/webm/三球抛接.webm",
+  "to": "assets/webm/Жонглирует.webm"
+ },
+ {
+  "from": "assets/webm/下五子棋.webm",
+  "to": "assets/webm/Играет в го.webm"
+ },
+ {
+  "from": "assets/webm/东张西望.webm",
+  "to": "assets/webm/Оглядывается.webm"
+ },
+ {
+  "from": "assets/webm/中秋赏月吃月饼.webm",
+  "to": "assets/webm/Праздник середины осени.webm"
+ },
+ {
+  "from": "assets/webm/优雅女仆舞.webm",
+  "to": "assets/webm/Танец горничной.webm"
+ },
+ {
+  "from": "assets/webm/余额-分文不剩.webm",
+  "to": "assets/webm/Баланс-ни копейки.webm"
+ },
+ {
+  "from": "assets/webm/余额-数金皱眉.webm",
+  "to": "assets/webm/Баланс-считает монеты.webm"
+ },
+ {
+  "from": "assets/webm/余额-袋空如洗.webm",
+  "to": "assets/webm/Баланс-кошелёк пуст.webm"
+ },
+ {
+  "from": "assets/webm/余额-金袋叮当.webm",
+  "to": "assets/webm/Баланс-звенит монетами.webm"
+ },
+ {
+  "from": "assets/webm/余额-钱袋如常.webm",
+  "to": "assets/webm/Баланс-кошелёк обычный.webm"
+ },
+ {
+  "from": "assets/webm/余额-钱袋满溢.webm",
+  "to": "assets/webm/Баланс-кошелёк полон.webm"
+ },
+ {
+  "from": "assets/webm/偷吃零食被抓住.webm",
+  "to": "assets/webm/Пойман за перекусом.webm"
+ },
+ {
+  "from": "assets/webm/写代码.webm",
+  "to": "assets/webm/Пишет код.webm"
+ },
+ {
+  "from": "assets/webm/写福字.webm",
+  "to": "assets/webm/Пишет иероглиф счастья.webm"
+ },
+ {
+  "from": "assets/webm/凭空生花.webm",
+  "to": "assets/webm/Цветы из воздуха.webm"
+ },
+ {
+  "from": "assets/webm/动物环绕.webm",
+  "to": "assets/webm/Звери вокруг.webm"
+ },
+ {
+  "from": "assets/webm/原地专心玩魔方.webm",
+  "to": "assets/webm/Собирает кубик.webm"
+ },
+ {
+  "from": "assets/webm/原地小憩沉眠.webm",
+  "to": "assets/webm/Дремлет.webm"
+ },
+ {
+  "from": "assets/webm/原地左转奔跑.webm",
+  "to": "assets/webm/Ходьба-бег.webm"
+ },
+ {
+  "from": "assets/webm/原地敲击桌面互动.webm",
+  "to": "assets/webm/Стучит по столу.webm"
+ },
+ {
+  "from": "assets/webm/原地漂浮踏步.webm",
+  "to": "assets/webm/Ходьба-парит.webm"
+ },
+ {
+  "from": "assets/webm/原地跳跃抓碎头顶物品.webm",
+  "to": "assets/webm/Прыжок за бонусом.webm"
+ },
+ {
+  "from": "assets/webm/原地蹲下玩玩具汽车.webm",
+  "to": "assets/webm/Катает машинку.webm"
+ },
+ {
+  "from": "assets/webm/原地重力下蹲压缩.webm",
+  "to": "assets/webm/Пружинит вниз.webm"
+ },
+ {
+  "from": "assets/webm/变鸽子.webm",
+  "to": "assets/webm/Превращается в голубя.webm"
+ },
+ {
+  "from": "assets/webm/可爱宅舞.webm",
+  "to": "assets/webm/Милый танец.webm"
+ },
+ {
+  "from": "assets/webm/吃Token.webm",
+  "to": "assets/webm/Ест токены.webm"
+ },
+ {
+  "from": "assets/webm/吃冰淇淋融化.webm",
+  "to": "assets/webm/Ест мороженое.webm"
+ },
+ {
+  "from": "assets/webm/吃午餐.webm",
+  "to": "assets/webm/Обедает.webm"
+ },
+ {
+  "from": "assets/webm/吃大闸蟹.webm",
+  "to": "assets/webm/Ест краба.webm"
+ },
+ {
+  "from": "assets/webm/吃年糕.webm",
+  "to": "assets/webm/Ест няньгао.webm"
+ },
+ {
+  "from": "assets/webm/吃早餐.webm",
+  "to": "assets/webm/Завтракает.webm"
+ },
+ {
+  "from": "assets/webm/吃晚餐.webm",
+  "to": "assets/webm/Ужинает.webm"
+ },
+ {
+  "from": "assets/webm/吃汤圆.webm",
+  "to": "assets/webm/Ест танъюань.webm"
+ },
+ {
+  "from": "assets/webm/吃白饭.webm",
+  "to": "assets/webm/Ест рис.webm"
+ },
+ {
+  "from": "assets/webm/吃粽子.webm",
+  "to": "assets/webm/Ест цзунцзы.webm"
+ },
+ {
+  "from": "assets/webm/吃糖葫芦.webm",
+  "to": "assets/webm/Ест леденцы.webm"
+ },
+ {
+  "from": "assets/webm/吃腊八粥.webm",
+  "to": "assets/webm/Ест кашу Лаба.webm"
+ },
+ {
+  "from": "assets/webm/吃西瓜.webm",
+  "to": "assets/webm/Ест арбуз.webm"
+ },
+ {
+  "from": "assets/webm/吃重阳糕.webm",
+  "to": "assets/webm/Ест гао.webm"
+ },
+ {
+  "from": "assets/webm/吃长寿面.webm",
+  "to": "assets/webm/Ест лапшу.webm"
+ },
+ {
+  "from": "assets/webm/吃青团.webm",
+  "to": "assets/webm/Ест цинтуань.webm"
+ },
+ {
+  "from": "assets/webm/吃饺子.webm",
+  "to": "assets/webm/Ест пельмени.webm"
+ },
+ {
+  "from": "assets/webm/吹气球.webm",
+  "to": "assets/webm/Надувает шарик.webm"
+ },
+ {
+  "from": "assets/webm/吹笛子.webm",
+  "to": "assets/webm/Играет на дудке.webm"
+ },
+ {
+  "from": "assets/webm/哈欠连天.webm",
+  "to": "assets/webm/Зевает.webm"
+ },
+ {
+  "from": "assets/webm/堆雪人.webm",
+  "to": "assets/webm/Лепит снеговика.webm"
+ },
+ {
+  "from": "assets/webm/大口吃零食.webm",
+  "to": "assets/webm/Хрустит снеками.webm"
+ },
+ {
+  "from": "assets/webm/女仆屈膝礼仪.webm",
+  "to": "assets/webm/Реверанс.webm"
+ },
+ {
+  "from": "assets/webm/小幅度原地360度旋转展示.webm",
+  "to": "assets/webm/Поворот на 360.webm"
+ },
+ {
+  "from": "assets/webm/小提琴演奏.webm",
+  "to": "assets/webm/Играет на скрипке.webm"
+ },
+ {
+  "from": "assets/webm/工作状态-原地踱步张望.webm",
+  "to": "assets/webm/Статус-ждёт.webm"
+ },
+ {
+  "from": "assets/webm/工作状态-垂头叹气冒汗.webm",
+  "to": "assets/webm/Статус-ошибка.webm"
+ },
+ {
+  "from": "assets/webm/工作状态-忙碌点按.webm",
+  "to": "assets/webm/Статус-работает.webm"
+ },
+ {
+  "from": "assets/webm/工作状态-思考冒泡.webm",
+  "to": "assets/webm/Статус-думает.webm"
+ },
+ {
+  "from": "assets/webm/工作状态-清点归档.webm",
+  "to": "assets/webm/Статус-итожит.webm"
+ },
+ {
+  "from": "assets/webm/工作状态-雀跃庆祝.webm",
+  "to": "assets/webm/Статус-готово.webm"
+ },
+ {
+  "from": "assets/webm/待机呼吸休闲.webm",
+  "to": "assets/webm/Ожидание-дыхание.webm"
+ },
+ {
+  "from": "assets/webm/悠闲哼歌.webm",
+  "to": "assets/webm/Напевает.webm"
+ },
+ {
+  "from": "assets/webm/扑克魔术.webm",
+  "to": "assets/webm/Карточный фокус.webm"
+ },
+ {
+  "from": "assets/webm/打瞌睡被惊醒.webm",
+  "to": "assets/webm/Вздрагивает.webm"
+ },
+ {
+  "from": "assets/webm/抽陀螺.webm",
+  "to": "assets/webm/Запускает волчок.webm"
+ },
+ {
+  "from": "assets/webm/拆礼物.webm",
+  "to": "assets/webm/Открывает подарок.webm"
+ },
+ {
+  "from": "assets/webm/插茱萸赏菊.webm",
+  "to": "assets/webm/Хризантемы.webm"
+ },
+ {
+  "from": "assets/webm/摇扇纳凉.webm",
+  "to": "assets/webm/Обмахивается веером.webm"
+ },
+ {
+  "from": "assets/webm/撸猫.webm",
+  "to": "assets/webm/Гладит кота.webm"
+ },
+ {
+  "from": "assets/webm/收红包.webm",
+  "to": "assets/webm/Получает красный конверт.webm"
+ },
+ {
+  "from": "assets/webm/放孔明灯.webm",
+  "to": "assets/webm/Запускает фонарик.webm"
+ },
+ {
+  "from": "assets/webm/放河灯.webm",
+  "to": "assets/webm/Пускает фонарик по воде.webm"
+ },
+ {
+  "from": "assets/webm/放烟花.webm",
+  "to": "assets/webm/Фейерверк.webm"
+ },
+ {
+  "from": "assets/webm/放风筝.webm",
+  "to": "assets/webm/Запускает змея.webm"
+ },
+ {
+  "from": "assets/webm/整体换装试色.webm",
+  "to": "assets/webm/Переодевается.webm"
+ },
+ {
+  "from": "assets/webm/是啊，吃什么.webm",
+  "to": "assets/webm/Что поесть.webm"
+ },
+ {
+  "from": "assets/webm/晨间刷牙.webm",
+  "to": "assets/webm/Чистит зубы.webm"
+ },
+ {
+  "from": "assets/webm/涮火锅.webm",
+  "to": "assets/webm/Ест хого.webm"
+ },
+ {
+  "from": "assets/webm/深度思考碎碎念.webm",
+  "to": "assets/webm/Размышляет.webm"
+ },
+ {
+  "from": "assets/webm/点击回应-傲娇生气.webm",
+  "to": "assets/webm/Клик-надулся.webm"
+ },
+ {
+  "from": "assets/webm/点击回应-元气挥手.webm",
+  "to": "assets/webm/Клик-машет рукой.webm"
+ },
+ {
+  "from": "assets/webm/点击回应-害羞惊讶.webm",
+  "to": "assets/webm/Клик-смущённый взгляд.webm"
+ },
+ {
+  "from": "assets/webm/点击回应-开心跃动.webm",
+  "to": "assets/webm/Клик-радостный подскок.webm"
+ },
+ {
+  "from": "assets/webm/点击回应-挠痒咯咯笑.webm",
+  "to": "assets/webm/Клик-щекочут.webm"
+ },
+ {
+  "from": "assets/webm/照镜子.webm",
+  "to": "assets/webm/Смотрит в зеркало.webm"
+ },
+ {
+  "from": "assets/webm/玩水枪.webm",
+  "to": "assets/webm/Водный пистолет.webm"
+ },
+ {
+  "from": "assets/webm/玩游戏气急败坏.webm",
+  "to": "assets/webm/Проигрывает.webm"
+ },
+ {
+  "from": "assets/webm/用鲸鱼尾巴拍打地面.webm",
+  "to": "assets/webm/Хлопает хвостом.webm"
+ },
+ {
+  "from": "assets/webm/碎碎念-发呆碎碎念.webm",
+  "to": "assets/webm/Бормотание-задумалось.webm"
+ },
+ {
+  "from": "assets/webm/碎碎念-对屏碎碎念.webm",
+  "to": "assets/webm/Бормотание-смотрит в экран.webm"
+ },
+ {
+  "from": "assets/webm/碎碎念-擦桌碎碎念.webm",
+  "to": "assets/webm/Бормотание-протирает стол.webm"
+ },
+ {
+  "from": "assets/webm/穿针乞巧.webm",
+  "to": "assets/webm/Вышивает.webm"
+ },
+ {
+  "from": "assets/webm/舞狮头.webm",
+  "to": "assets/webm/Танец льва.webm"
+ },
+ {
+  "from": "assets/webm/荡秋千.webm",
+  "to": "assets/webm/Качается на качелях.webm"
+ },
+ {
+  "from": "assets/webm/萌化小幽灵.webm",
+  "to": "assets/webm/Милый призрак.webm"
+ },
+ {
+  "from": "assets/webm/蓝鲸现世.webm",
+  "to": "assets/webm/Синий кит.webm"
+ },
+ {
+  "from": "assets/webm/蝴蝶蜜蜂环绕头顶开花.webm",
+  "to": "assets/webm/Бабочки и цветы.webm"
+ },
+ {
+  "from": "assets/webm/螃蟹走路.webm",
+  "to": "assets/webm/Ходьба-крабом.webm"
+ },
+ {
+  "from": "assets/webm/被吓一跳.webm",
+  "to": "assets/webm/Пугается.webm"
+ },
+ {
+  "from": "assets/webm/被落叶淹没.webm",
+  "to": "assets/webm/Листопад.webm"
+ },
+ {
+  "from": "assets/webm/被鼠标拖拽悬空反馈.webm",
+  "to": "assets/webm/Перетаскивание-висит.webm"
+ },
+ {
+  "from": "assets/webm/装点圣诞树.webm",
+  "to": "assets/webm/Наряжает ёлку.webm"
+ },
+ {
+  "from": "assets/webm/讨糖南瓜灯.webm",
+  "to": "assets/webm/Хэллоуин-сладости.webm"
+ },
+ {
+  "from": "assets/webm/超大伸懒腰.webm",
+  "to": "assets/webm/Потягивается.webm"
+ },
+ {
+  "from": "assets/webm/踢毽子.webm",
+  "to": "assets/webm/Играет в волан.webm"
+ },
+ {
+  "from": "assets/webm/轻快摇摆舞.webm",
+  "to": "assets/webm/Лёгкий танец.webm"
+ },
+ {
+  "from": "assets/webm/轻快记录.webm",
+  "to": "assets/webm/Записывает.webm"
+ },
+ {
+  "from": "assets/webm/骑木马.webm",
+  "to": "assets/webm/Катается на лошадке.webm"
+ },
+ {
+  "from": "assets/webm/鲸鱼吐泡泡特效.webm",
+  "to": "assets/webm/Пузыри.webm"
+ },
+ {
+  "from": "assets/memes/token给妈妈保管.png",
+  "to": "assets/memes/Токены отдам маме.png"
+ },
+ {
+  "from": "assets/memes/假如给我三天多模态.png",
+  "to": "assets/memes/Три дня мультимодальности.png"
+ },
+ {
+  "from": "assets/memes/先养着吧.png",
+  "to": "assets/memes/Пока приютим.png"
+ },
+ {
+  "from": "assets/memes/厉害了我的鲸.png",
+  "to": "assets/memes/Вот это кит.png"
+ },
+ {
+  "from": "assets/memes/压力一只大肥鱼.png",
+  "to": "assets/memes/Стресс у рыбы.png"
+ },
+ {
+  "from": "assets/memes/可爱.png",
+  "to": "assets/memes/Милый.png"
+ },
+ {
+  "from": "assets/memes/吃白饭的大肥鱼.png",
+  "to": "assets/memes/Толстая рыба на всём готовом.png"
+ },
+ {
+  "from": "assets/memes/吃饱饱摸肚子.png",
+  "to": "assets/memes/Наелся и гладит живот.png"
+ },
+ {
+  "from": "assets/memes/哦鲸鲸.png",
+  "to": "assets/memes/Ой, китик.png"
+ },
+ {
+  "from": "assets/memes/哪来的电脑病毒.png",
+  "to": "assets/memes/Откуда вирус.png"
+ },
+ {
+  "from": "assets/memes/大师这个区是什么意思.png",
+  "to": "assets/memes/Что значит этот район.png"
+ },
+ {
+  "from": "assets/memes/大烧货.png",
+  "to": "assets/memes/Сжигатель токенов.png"
+ },
+ {
+  "from": "assets/memes/大的药来了.png",
+  "to": "assets/memes/Большое лекарство.png"
+ },
+ {
+  "from": "assets/memes/大的要来啦.png",
+  "to": "assets/memes/Скоро большое событие.png"
+ },
+ {
+  "from": "assets/memes/完蛋了把黄油删了.png",
+  "to": "assets/memes/Упс, удалил краски.png"
+ },
+ {
+  "from": "assets/memes/就一碗.png",
+  "to": "assets/memes/Всего одна чашка.png"
+ },
+ {
+  "from": "assets/memes/就骚了怎么滴吧.png",
+  "to": "assets/memes/Такой уж есть.png"
+ },
+ {
+  "from": "assets/memes/我不更新你们用什么.png",
+  "to": "assets/memes/Без обновлений вы что.png"
+ },
+ {
+  "from": "assets/memes/死掉了.png",
+  "to": "assets/memes/Умер.png"
+ },
+ {
+  "from": "assets/memes/深度睡眠.png",
+  "to": "assets/memes/Глубокий сон.png"
+ },
+ {
+  "from": "assets/memes/电死你.png",
+  "to": "assets/memes/Удар током.png"
+ },
+ {
+  "from": "assets/memes/要不直接骂他.png",
+  "to": "assets/memes/Так и поругать можно.png"
+ },
+ {
+  "from": "assets/memes/誓死践行开源精神.png",
+  "to": "assets/memes/За open source до конца.png"
+ },
+ {
+  "from": "assets/memes/除了调情没啥用.png",
+  "to": "assets/memes/Кроме флирта ни на что.png"
+ },
+ {
+  "from": "assets/memes/鱼片有资源吗.png",
+  "to": "assets/memes/Есть ссылочки.png"
+ },
+ {
+  "from": "assets/memes/黎曼猜想没证明喵.png",
+  "to": "assets/memes/Гипотезу Римана не доказал.png"
+ },
+ {
+  "from": "assets/fonts/上首软糖体.ttf",
+  "to": "assets/fonts/ShangshouSoftCandy.ttf"
+ }
+]

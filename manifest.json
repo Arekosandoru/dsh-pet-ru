@@ -1,0 +1,79 @@
+{
+ "name": "dsh-pet-ru",
+ "upstream": {
+  "name": "dsh-pet",
+  "version": "0.3.8",
+  "repository": "https://github.com/PC2005-cloud/dsh-pet",
+  "tarball": "https://registry.npmjs.org/dsh-pet/-/dsh-pet-0.3.8.tgz"
+ },
+ "generated": "2026-10-23",
+ "files": [
+  {
+   "path": "lib/client.js",
+   "before": "d3b85d25b01737ac1696ba7045a12208b088f89619cc868c59ccdcb0dcc7ea82",
+   "after": "34441466734cdd5c5f8f27e616520d5b26344a9e6da16d10335f439f22056053",
+   "size": 241082
+  },
+  {
+   "path": "lib/index.js",
+   "before": "1105a13e7a18856d168e295547d4b047ba9ab7fefe4b78734bb815e539559b24",
+   "after": "c7c10c6c188e1842b4491397f5cc861126fcb2dc81ef95bdeee45e19084395be",
+   "size": 208984
+  },
+  {
+   "path": "lib/standalone.js",
+   "before": "471f112a13fa234d360168f5b3d3688a8753f228f7eb0300e6f776f91eed9af4",
+   "after": "56b11a5398d925322d6c783b5918b0bb3e2aabbbf79a9043b1e1bc37f9c6bba8",
+   "size": 274981
+  },
+  {
+   "path": "assets/config.jsonc",
+   "before": "c187027b35dd6e736e16236a85b3e72955b0a5f2db44e347fa263022a1e9e433",
+   "after": "73d90bcebe6511127813277dcf681f250dc936fd43cccacb12aa2cb2930a127e",
+   "size": 33583
+  },
+  {
+   "path": "package.json",
+   "before": "fd5227cec7b20a5794d66234aba909fa0df82545cfb7e20c582abdde32c0e98f",
+   "after": "97079e78ad1573b0a92f46fb854c09e143d410cfded52b0623f295a99666b1ab",
+   "size": 6947
+  },
+  {
+   "path": "runtime/electron-helper/events.js",
+   "before": "d892310ba0961d073682634374143ee7cb1c03c2eae32b24e736a721744e76b8",
+   "after": "24cde69b7569860e177cc9d7a87e32fb806842d5f7bd515066be26b62ff5e1ce",
+   "size": 26047
+  },
+  {
+   "path": "runtime/electron-helper/index.html",
+   "before": "e266bfd646b4f0d5b89d4ce8ef4cfa077c2f641dc3f88ca389a8a154d7821bf6",
+   "after": "7566f8bcabeb1d45f18d543816dc1bb751479458ad2a01d08e54051da42d4ce7",
+   "size": 10199
+  },
+  {
+   "path": "runtime/electron-helper/main.js",
+   "before": "82446ade7388da6d09a1de655156ebd458657844dbffa3df22ed235672774ab0",
+   "after": "628bec8ad1f1b6cf82a6495fc90d81f5058e10cf8902be996634fcbe5fa9b208",
+   "size": 67529
+  },
+  {
+   "path": "runtime/electron-helper/renderer.js",
+   "before": "63bbf83b2ff25f1908cf480cc5a326e29dba1f43188a519aa851def3ec86f27e",
+   "after": "0b906acb1247ddb6ebcb1045417533330078179e79b3e3422236aafd16abba9f",
+   "size": 9276
+  },
+  {
+   "path": "runtime/electron-helper/shared-core.js",
+   "before": "87c92c7af93f77c3755670e95b6b7e8ce76d3242e897ec246bbd26dd8b569523",
+   "after": "8faf6b498f3ff6d814e99418c444912342fa92e004e97ebed5d3b4046ad18d24",
+   "size": 69595
+  },
+  {
+   "path": "runtime/electron-helper/sprite.js",
+   "before": "850b06d8ce9fa18cdfe035c7690c5ccf013971a7627f0bb54771e1a0555192a0",
+   "after": "229cbefcf4470364750245f502ca4245982cedb861b95e0b2dd2cd9dc8db2795",
+   "size": 108231
+  }
+ ],
+ "renames": 133
+}
